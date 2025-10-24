@@ -1,0 +1,16 @@
+{
+  "name": "Rainbow Balloons",
+  "short_name": "Rainbow",
+  "start_url": "https://rainbowballoons.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Rainbow Balloons — The nation's leading balloon and accessory distributor.",
+  "icons": [
+    {
+      "src": "https://rainbowballoons.com/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
